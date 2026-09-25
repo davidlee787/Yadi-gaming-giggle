@@ -69,4 +69,5 @@ class YADI77Spammer:
             "🌋 MELTDOWN SEQUENCE INITIATED 🌋",
             "☢️ RADIATION LEAK - EVACUATE DEVICE ☢️",
             "🛑 CRITICAL ERROR: FORMATTING DRIVE 🛑",
-            "💥
+            "💥"
+            
